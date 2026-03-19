@@ -1,0 +1,84 @@
+📊 DATA ANALYSIS REPORT
+============================================================
+Latest date in dataset: 2025-03-20
+Analyzing last month: 2025-02-18 – 2025-03-20
+
+🏆 TOP 5 MOST POPULAR SERVICES (BY ORDER COUNT)
+------------------------------------------------------------
+1. Инвестиционное консультирование: 2,429 orders
+2. Управление активами: 2,014 orders
+3. Финансовое планирование: 1,532 orders
+4. Налоговое планирование: 1,528 orders
+5. Структурирование капитала: 1,507 orders
+
+📈 AVERAGE TRANSACTION AMOUNT PER CITY
+------------------------------------------------------------
+  Port Michellemouth: 55,734.99
+  Michellehaven: 55,033.58
+  East Rachelmouth: 53,816.91
+  New Tommyborough: 53,409.12
+  Trevinoberg: 52,617.16
+  North Melissaland: 52,423.48
+  North Lauriebury: 52,335.04
+  New Zacharyport: 52,203.02
+  Kaneburgh: 51,969.12
+  Johnsonfort: 51,805.77
+  Harrisberg: 51,623.62
+  Bondstad: 51,107.49
+  Lake Tina: 51,060.50
+  West Meredithhaven: 51,032.97
+  North Emily: 50,901.60
+  Lake Arielmouth: 50,581.39
+  Krystalland: 50,474.50
+  South Andrew: 50,261.89
+  Davidsonborough: 49,883.49
+  Erichaven: 49,881.75
+  Patelbury: 49,752.36
+  Aprilstad: 49,505.29
+  East Melissaville: 49,371.69
+  North Hannahmouth: 49,336.90
+  Ronaldville: 48,819.16
+  Mayoberg: 48,800.40
+  East Matthewmouth: 48,793.41
+  Port Jordan: 48,621.56
+  Hamiltontown: 48,451.49
+  Karenville: 48,348.33
+  Неизвестный город: 48,072.53
+  New Chelseaberg: 47,893.32
+  Port Darlene: 47,819.15
+  North Patrickport: 47,746.05
+  Dannyburgh: 47,741.70
+  Tonystad: 47,653.34
+  Roberttown: 47,014.92
+  Port James: 46,825.85
+  West Jaymouth: 46,695.68
+  Lake Sallychester: 46,642.13
+  Davidmouth: 46,462.38
+  New Ryan: 46,333.02
+  New Dianechester: 46,305.02
+  South Thomas: 46,247.51
+  Cruzport: 45,380.96
+  Ibarramouth: 45,188.69
+  Mirandaside: 44,953.43
+  Matthewsville: 44,666.55
+  Elizabethmouth: 44,354.52
+  Jeanettetown: 43,861.54
+  East Jamie: 42,791.97
+
+💰 SERVICE WITH HIGHEST REVENUE
+------------------------------------------------------------
+'Инвестиционное консультирование': 119,793,707.34
+
+📊 TRANSACTION SHARE BY PAYMENT METHOD
+------------------------------------------------------------
+  Кредитная карта: 39.99% (3,999 transactions)
+  Банковский перевод: 34.64% (3,464 transactions)
+  Неизвестно: 10.08% (1,008 transactions)
+  Наличные: 9.85% (985 transactions)
+  Криптовалюта: 5.44% (544 transactions)
+
+📅 REVENUE FOR LAST MONTH
+------------------------------------------------------------
+Period: 2025-02-18 – 2025-03-20
+Total revenue: 167,379,015.01
+Number of transactions: 3,430
